@@ -69,7 +69,7 @@ for (let i = 0; i < firstnumbersArray.length; i++) {
 }
 console.log(secondbiggest);
 
-// // Second
+// Second
 let secondnumbersArray = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 let largest = secondnumbersArray[0];
 let secondlargest = secondnumbersArray[0];
